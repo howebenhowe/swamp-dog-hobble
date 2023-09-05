@@ -1,0 +1,13 @@
+{
+	"name": "swampdoghobble",
+	"description": "site for sdh intentional community",
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.10"
+  },
+  "scripts": {
+    "swampdog:dev": "vitepress dev",
+    "swampdog:build": "vitepress build",
+    "swampdog:preview": "vitepress preview"
+  },
+	"license": "MIT"
+}
