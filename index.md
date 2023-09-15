@@ -6,10 +6,10 @@ hero:
   text: "An intentional community in Brooklyn"
   actions:
     - theme: brand
-      text: Upcoming Events
-      link: /upcoming
-    - theme: alt
       text: Manifesto
       link: /manifesto
+    - theme: alt
+      text: Norms
+      link: /norms
 ---
 

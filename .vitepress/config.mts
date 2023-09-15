@@ -7,7 +7,7 @@ export default defineConfig({
 	themeConfig: {
 		nav: [
 			{ text: 'Manifesto', link: '/manifesto' },
-			{ text: 'Events', link: '/upcoming' }
+			{ text: 'Norms', link: '/norms' }
 		],
 
 		outline: 2,
