@@ -11,5 +11,8 @@ hero:
     - theme: alt
       text: Norms
       link: /norms
+    - theme: alt
+      text: Finances
+      link: /finances
 ---
 
