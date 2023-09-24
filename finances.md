@@ -56,21 +56,21 @@ Once the process above is completed and you know how much you will be paying int
 
 It is different for different expenses:
 
-* For rent, we pay directly via an online portal (currently responsibility of the Accounting WizardTM)
-* For utility bills we pay directly online (currently responsibility of the Bill MonsterTM)
+* For rent, we pay directly via an online portal (currently responsibility of the Accounting Wizard™️)
+* For utility bills we pay directly online (currently responsibility of the Bill Monster™️)
 * For groceries, the house credit card is automatically paid off via this account each month 
 
 ### I spent money on the house, in addition to my monthly contribution. How do I get credit?
 
-Receipt stack! Write your initials on the receipt and put it atop the receipt stack. The receipt stack is processed every month (okay, every two *okay three* months) by the person currently in the Accounting WizardTM house role and recorded onto splitwise
+Receipt stack! Write your initials on the receipt and put it atop the receipt stack. The receipt stack is processed every month (okay, every two *okay three* months) by the person currently in the Accounting Wizard™️ house role and recorded onto splitwise
 
 ### Splitwise: How is all of this tracked?
 
-Splitwise! You will only ever need to interact with Splitwise when you make your monthly contributions. Exceptions are community members with specific roles (bill-payer, rent-payer, Accounting WizardTM).
+Splitwise! You will only ever need to interact with Splitwise when you make your monthly contributions. Exceptions are community members with specific roles (bill-payer, rent-payer, Accounting Wizard™️).
 
 How to log your monthly contribution:
 
-1.  Go to Splitwise.com. if you’re not set up on there, please reach out to Accounting WizardTM
+1.  Go to Splitwise.com. if you’re not set up on there, please reach out to Accounting Wizard™️
 1.  To record your contribution:
     1.  “Add an Expense”
     1.  With you and “Swamp D.”
@@ -85,5 +85,4 @@ How to log your monthly contribution:
 
 ![example-splitwise-invoice](/public/images/splitwise_feed_dog_demo_screenshot.jpg)
 
-Hey! I’ve got one of those special roles! What do? 
-TBU
+### Hey! I’ve got one of those special roles! What do? 
