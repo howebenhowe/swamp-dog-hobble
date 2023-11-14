@@ -3,6 +3,58 @@
  * and documentation on how to override the theme: https://vitepress.dev/guide/extending-default-theme#customizing-css
  * */
 :root {
-  --vp-c-brand-1: #D84727;
-  --vp-c-brand-2: #CDEDF6;
+	--prussian-blue: #003152ff;
+	--thistle: #d5c6e0ff;
+	--rose-quartz: #aaa1c8ff;
+	--jasmine: #EBC670;
+	--verdigris: #00afb5ff;
+	--flame: #E4572E;
+}
+
+/*  for dark colors, progess from lightest to deepest for stronger contrast against background, hover will lighten buttons etc*/
+.dark {
+	--vp-c-violet-1: #7D72AC;
+	--vp-c-violet-2: #7365A4;
+	--vp-c-violet-3: #695B9A;
+	--vp-c-violet-soft: #7365A4B0;
+
+	--vp-c-verdigris-1: #009EA3;
+	--vp-c-verdigris-2: #008A8F;
+	--vp-c-verdigris-3: #00767a;
+	--vp-c-verdigris-soft: #008A8FB0;
+
+	--vp-c-jasmine-1: #F5E2B8;
+	--vp-c-jasmine-2: #F0D494;
+	--vp-c-jasmine-3: #EBC670;
+	--vp-c-jasmine-soft: #F0D494B0;
+
+	--vp-c-flame-1: #EF9A81;
+	--vp-c-flame-2: #EA7E5D;
+	--vp-c-flame-3: #E4572E;
+	--vp-c-flame-soft: #EA7E5DB0;
+
+	--vp-c-default-1: var(--vp-c-violet-1);
+	--vp-c-default-2: var(--vp-c-violet-2);
+	--vp-c-default-3: var(--vp-c-violet-3);
+	--vp-c-default-soft: var(--vp-c-violet-soft);
+
+	--vp-c-brand-1: var(--vp-c-verdigris-1);
+	--vp-c-brand-2: var(--vp-c-verdigris-2);
+	--vp-c-brand-3: var(--vp-c-verdigris-3);
+	--vp-c-brand-soft: var(--vp-c-verdigris-soft);
+
+	--vp-c-tip-1: var(--vp-c-brand-1);
+	--vp-c-tip-2: var(--vp-c-brand-2);
+	--vp-c-tip-3: var(--vp-c-brand-3);
+	--vp-c-tip-soft: var(--vp-c-brand-soft);
+
+	--vp-c-warning-1: var(--vp-c-jasmine-1);
+	--vp-c-warning-2: var(--vp-c-jasmine-2);
+	--vp-c-warning-3: var(--vp-c-jasmine-3);
+	--vp-c-warning-soft: var(--vp-c-jasmine-soft);
+
+	--vp-c-danger-1: var(--vp-c-flame-1);
+	--vp-c-danger-2: var(--vp-c-flame-2);
+	--vp-c-danger-3: var(--vp-c-flame-3);
+	--vp-c-danger-soft: var(--vp-c-flame-soft);
 }
