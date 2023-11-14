@@ -2,6 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
 	title: "Swamp Dog Hobble",
+	appearance: true,
+	lastUpdated: true,
 	description: "An intentional community in Brooklyn",
 	cleanUrls: true,
 	head: [
