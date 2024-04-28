@@ -15,6 +15,7 @@ export default defineConfig({
 			{ text: 'Norms', link: '/norms' },
 			{ text: 'Finances', link: '/finances' },
 			{ text: 'images', link: '/images' },
+			{ text: 'Distro Handbook', link: '/distro-handbook' },
 		],
 
 		outline: 2,
