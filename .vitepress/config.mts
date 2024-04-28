@@ -14,6 +14,7 @@ export default defineConfig({
 			{ text: 'Manifesto', link: '/manifesto' },
 			{ text: 'Norms', link: '/norms' },
 			{ text: 'Finances', link: '/finances' },
+			{ text: 'images', link: '/images' },
 		],
 
 		outline: 2,
