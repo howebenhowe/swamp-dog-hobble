@@ -48,6 +48,9 @@ Call her! Text her!
 
 ## Finances
 Venmo
+
+![qr-code-donation](images/swampdog-distro-qr.svg)
+
 GoFundMe
 Slop dinner
 Show
@@ -57,3 +60,5 @@ Show
 ## Pantry guide
 
 ## Procurement guide
+
+## Previous cook-ups
