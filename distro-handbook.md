@@ -49,7 +49,7 @@ Call her! Text her!
 ## Finances
 Venmo
 
-![qr-code-donation](images/swampdog-distro-qr.svg)
+![qr-code-donation](./public/images/swampdog-distro-qr.svg)
 
 GoFundMe
 Slop dinner
