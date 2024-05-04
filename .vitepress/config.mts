@@ -25,7 +25,7 @@ export default defineConfig({
 						{ text: 'Cooking', link: '/distro/' },
 						{ text: 'Logistics', link: '/distro/logistics' },
 						{ text: 'Chronicle', link: '/distro/chronicle' },
-						{ text: 'Donate/Volunteer', link: '/distro/donate_volunteer' }
+						{ text: 'Donate/Volunteer', link: '/distro/donate-volunteer' }
 					]
 				}
 			],
