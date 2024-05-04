@@ -1,5 +1,27 @@
 import { defineConfig } from 'vitepress'
 
+const sidebar_links = {
+	text: 'Contact and Friends',
+	items: [
+		{
+			text: 'swampdog@fastmail.com',
+			link: 'mailto:swampdog@fastmail.com'
+		},
+		{
+			text: 'instagram',
+			link: 'https://www.instagram.com/swampdogmutualaid/'
+		},
+		{
+			text: '⚓ Davy\'s site',
+			link: 'http://davyjonezlockr.gay/'
+		},
+		{
+			text: '🔪 Ben\'s site',
+			link: 'http://howebenhowe.com/'
+		}
+	]
+}
+
 export default defineConfig({
 	title: "Swamp Dog Hobble",
 	appearance: true,
@@ -27,13 +49,14 @@ export default defineConfig({
 						{ text: 'Chronicle', link: '/distro/chronicle' },
 						{ text: 'Donate/Volunteer', link: '/distro/donate-volunteer' }
 					]
-				}
+				},
+				sidebar_links
 			],
+			'/': [sidebar_links]
 		},
 		outline: 2,
 		socialLinks: [
-			{ icon: { svg: '⚓' }, link: 'http://davyjonezlockr.gay/', ariaLabel: "Davy's personal website" },
-			{ icon: { svg: '🔪' }, link: 'http://howebenhowe.com/', ariaLabel: "Ben's personal website" }
+			{ icon: 'instagram', link: 'https://www.instagram.com/swampdogmutualaid/', ariaLabel: 'SwampDog mutual aid instagram' }
 		]
 	}
 })
