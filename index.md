@@ -14,5 +14,8 @@ hero:
     - theme: alt
       text: Finances
       link: /finances
+    - theme: alt
+      text: Distro
+      link: /distro/
 ---
 
