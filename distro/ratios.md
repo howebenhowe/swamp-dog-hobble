@@ -1,4 +1,3 @@
-## 5/3 distro
 ### veg prep
 marinade cabbage
 cauliflower
@@ -36,7 +35,7 @@ cannellini beans - 2000g
 chicken bones 4000g (14L water)
 
 ### spice mix
-yield 1.5 qts
+yield 1 qts
 
 | ingredient    | quantity (g) |
 | :------------ | -----------: |
@@ -98,6 +97,18 @@ yield X qts
 
 | ingredient    | quantity |
 | :------------ | -------: |
-| squush        |    7000g |
+| squash        |    7000g |
 
 2x coconut milk
+
+### bread pudding
+yield ~160 servings
+
+| ingredient    | quantity (g)    |
+| :------------ | --------------: |
+| bread         |         10 loaf |
+| milk          | 10 liter (10 kg)|
+| butter        | 600g (5 sticks) |
+| sugar         |           2.6kg |
+| egg           |              40 |
+| vanilla extr. |            100g |

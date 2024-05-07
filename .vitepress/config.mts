@@ -47,7 +47,10 @@ export default defineConfig({
 						{ text: 'Cooking', link: '/distro/' },
 						{ text: 'Logistics', link: '/distro/logistics' },
 						{ text: 'Chronicle', link: '/distro/chronicle' },
-						{ text: 'Donate/Volunteer', link: '/distro/donate-volunteer' }
+						{ text: 'Donate/Volunteer', link: '/distro/donate-volunteer' },
+						{ text: 'Upcoming Timeline', link: '/distro/upcoming-timeline' },
+						{ text: 'Ratios', link: '/distro/ratios' },
+						{ text: 'Methods', link: '/distro/methods' }
 					]
 				},
 				sidebar_links
