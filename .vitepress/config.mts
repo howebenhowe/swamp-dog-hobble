@@ -8,6 +8,10 @@ const sidebar_links = {
 			link: 'mailto:swampdog@fastmail.com'
 		},
 		{
+			text: 'FIC',
+			link: 'https://www.ic.org/directory/swamp-dog-hobble/'
+		},
+		{
 			text: 'instagram',
 			link: 'https://www.instagram.com/swampdogmutualaid/'
 		},
@@ -49,8 +53,7 @@ export default defineConfig({
 						{ text: 'Chronicle', link: '/distro/chronicle' },
 						{ text: 'Donate/Volunteer', link: '/distro/donate-volunteer' },
 						{ text: 'Upcoming Timeline', link: '/distro/upcoming-timeline' },
-						{ text: 'Ratios', link: '/distro/ratios' },
-						{ text: 'Methods', link: '/distro/methods' }
+						{ text: 'Ratios', link: '/distro/ratios' }
 					]
 				},
 				sidebar_links
