@@ -40,7 +40,7 @@ cost: ~$145
 1. [produce chicken stock](#chicken-stock-method)
 1. [marinate the cabbage](#marinated-cabbage-method)
 1. [pickle the cabbage](#pickled-cabbage-method)
-1. [marinated the potato](#potato-method)
+1. [marinate the potato](#potato-method)
 1. [prep the squash](#squash-method) or [cauliflower](#cauliflower-method)
 1. [prep the chicken](#chicken-method)
 1. [cook the rice](#rice-method)
@@ -51,7 +51,6 @@ cost: ~$145
 <!--@include: ./garlic-ginger.md-->
 <!--@include: ./spice-mix.md-->
 <!--@include: ./salsa-verde.md-->
-(missing chickpea method/ratios)
 <!--@include: ./cannellini-beans.md-->
 <!--@include: ./chicken-stock.md-->
 <!--@include: ./marinated-cabbage.md-->
@@ -63,3 +62,5 @@ cost: ~$145
 <!--@include: ./chicken.md-->
 <!--@include: ./veggies.md-->
 <!--@include: ./bread-pudding.md-->
+
+<!--TODO: missing chickpea method/ratios-->
