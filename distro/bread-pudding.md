@@ -2,14 +2,14 @@
 yield ~160 servings
 
 ### ratios
-| ingredient    |     quantity (g) |
-|:--------------|-----------------:|
-| bread         |          10 loaf |
-| milk          | 10 liter (10 kg) |
-| butter        |  600g (5 sticks) |
-| sugar         |            2.6kg |
-| egg           |               40 |
-| vanilla extr. |             100g |
+| ingredient    |           quantity |
+|:--------------|-------------------:|
+| bread         |            10 loaf |
+| milk          | 10 liter (2.6 gal) |
+| butter        |    600g (5 sticks) |
+| sugar         |              2600g |
+| egg           |                 40 |
+| vanilla extr. |               100g |
 
 ### method {#bread-pudding-method}
 1. combine milk, butter, vanilla, sugar, salt in stock pot
