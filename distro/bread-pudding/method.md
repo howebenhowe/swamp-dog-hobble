@@ -1,17 +1,3 @@
-## bread pudding
-yield ~160 servings
-
-### ratios
-| ingredient    |           quantity |
-|:--------------|-------------------:|
-| bread         |            10 loaf |
-| milk          | 10 liter (2.6 gal) |
-| butter        |    600g (5 sticks) |
-| sugar         |              2600g |
-| egg           |                 40 |
-| vanilla extr. |               100g |
-
-### method {#bread-pudding-method}
 1. combine milk, butter, vanilla, sugar, salt in stock pot
 1. heat mixture on stove until butter melts and sugar dissolves then cool
 1. tear bread into orange-wedge-size pieces, distribute across hotel pans

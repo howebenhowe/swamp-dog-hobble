@@ -59,35 +59,3 @@ Aldi carries the rest.
 1. Pack soup
 1. Pack rice
 1. Confirm pickup time/person with Mina
-
-### Saturday
-
-## Recipes
-
-### Marinated Chicken
-#### Ingredients
-#### Method
-
-### Salsa Verde
-#### Ingredients
-#### Method
-
-### Curry
-#### Ingredients
-#### Method
-
-### Rice
-#### Ingredients
-#### Method
-
-### Chicken Stock
-#### Ingredients
-#### Method
-
-### Spice Mix
-#### Ingredients
-#### Method
-
-## Glossary
-
-## Pantry guide
