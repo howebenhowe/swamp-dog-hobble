@@ -53,7 +53,9 @@ export default defineConfig({
 						{ text: 'Chronicle', link: '/distro/chronicle' },
 						{ text: 'Donate/Volunteer', link: '/distro/donate-volunteer' },
 						{ text: 'Upcoming Timeline', link: '/distro/upcoming-timeline' },
-						{ text: 'Recipes', link: '/distro/recipes' }
+						{ text: 'Recipes', link: '/distro/recipes/' },
+						{ text: 'Ratios', link: '/distro/recipes/ratios' },
+						{ text: 'Methods', link: '/distro/recipes/methods' }
 					]
 				},
 				sidebar_links
