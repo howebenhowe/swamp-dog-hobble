@@ -4,7 +4,7 @@ The timeline for cooking is laid out in the [recipes](./recipes/).
 ## Communication
 Mina runs the distro. She is available via text.
 
-## Saturday Transportation timeline
+## Saturday Timeline
 **7:45 AM |** packed food on porch
 
 **8:00 |** AM Mina picks:

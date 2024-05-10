@@ -28,6 +28,9 @@ outline: 2
 ## salsa verde
 <!--@include: ./salsa-verde/ratios.md-->
 <!--@include: ./salsa-verde/method.md-->
+## chickpeas
+<!--@include: ./chickpeas/ratios.md-->
+<!--@include: ./chickpeas/method.md-->
 ## cannellini beans
 <!--@include: ./cannellini-beans/ratios.md-->
 <!--@include: ./cannellini-beans/method.md-->
@@ -60,7 +63,8 @@ outline: 2
 <!--@include: ./veggies/method.md-->
 ## soup
 <!--@include: ./soup/method.md-->
+## pack
+<!--@include: ./pack.md-->
 ## bread pudding
 <!--@include: ./bread-pudding/ratios.md-->
 <!--@include: ./bread-pudding/method.md-->
-<!--TODO: missing chickpea method/ratios-->
