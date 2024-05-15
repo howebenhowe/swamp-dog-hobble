@@ -14,14 +14,13 @@ At the start of 2024, we launched a GoFundMe campaign to raise money to cover fo
 
 [![go-fund-me-qr-code](../public/images/distro-gofundme-qr.svg){width=300px height=300px}][gofundme]
 
-[gofundme]: https://www.gofundme.com/f/help-swamp-dog-hobble-feed-nyc-migrants 'distro gofundme donation page'
-[venmo]: https://account.venmo.com/u/swampdog-distro 'distro venmo donation page'
-[distro-accounting]: https://docs.google.com/spreadsheets/d/1FN2MsiddUhml-wRD7RpK3K_PgpTI-jSUwXjg3bW4pOY/edit?usp=sharing 'distro accounting page'
-[swampdog-email]: mailto:swampdog@fastmail.com?subject=distro 'distro email'
-[signup-form]: https://docs.google.com/forms/d/e/1FAIpQLSdpNN3OUKQYSfXyZ4V4AJ1A2RGkdkEVbDnykJnfPEX1-JaAFA/viewform?usp=sf_link 'distro volunteer signup form'
-
 ## Fund the food!
 When we host shows in our basement, fancy dinners at our table, or fried chicken in the back yard, we literally and figuratively pass a hat to raise money for the distro. Cash donations are welcome of course, but there is also a dedicated Venmo account. [Donate to the distro fund with Venmo (@swampdog-distro).][venmo]
 
 [![venmo-qr-code](../public/images/distro-venmo-qr.svg){width=300px height=300px}][venmo]
 
+[gofundme]: https://www.gofundme.com/f/help-swamp-dog-hobble-feed-nyc-migrants 'distro gofundme donation page'
+[venmo]: https://account.venmo.com/u/swampdog-distro 'distro venmo donation page'
+[distro-accounting]: https://docs.google.com/spreadsheets/d/1FN2MsiddUhml-wRD7RpK3K_PgpTI-jSUwXjg3bW4pOY/edit?usp=sharing 'distro accounting page'
+[swampdog-email]: mailto:swampdog@fastmail.com?subject=distro 'distro email'
+[signup-form]: https://docs.google.com/forms/d/e/1FAIpQLSdpNN3OUKQYSfXyZ4V4AJ1A2RGkdkEVbDnykJnfPEX1-JaAFA/viewform?usp=sf_link 'distro volunteer signup form'

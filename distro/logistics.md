@@ -4,7 +4,28 @@ The timeline for cooking is laid out in the [recipes](./recipes/).
 ## Communication
 Mina runs the distro. She is available via text.
 
-## Saturday Timeline
+## Timeline
+### Friday
+1. Roast chicken
+1. Marinade cabbage
+1. Peel and crisp chicken skin
+1. Cook rice
+1. Vegetable Prep (this is also the order in which you should do things)
+	1. Onions: sliced or large dice. Your call. Don’t have to be pretty. They’ll dissolve in the soup, basically. 
+	1. Garlic and ginger: food processor, pulsed. Peel and rough chop ginger. The pieces should be about the size of garlic cloves. Throw everything in the food processor, pulse it until things look minced. 
+	1. Potatoes: these should already have been done yesterday. Place them on the counter before you, as you would a god. 
+	1. Canned tomatoes: open the cans. 
+	1. Cauliflower: florets, bite-sized, along the lines of the potato.
+	1. Peppers (bell and sweet): medium dice on the bell peppers, half-inch rings for the sweet peppers.
+	1. Cabbage: you did this a few hours ago. 
+1. Make soup
+1. Cool soup
+1. Add salsa verde
+1. Pack soup
+1. Pack rice
+1. Confirm pickup time/person with Mina
+
+### Saturday
 **7:45 AM |** packed food on porch
 
 **8:00 |** AM Mina picks:
