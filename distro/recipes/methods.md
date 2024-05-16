@@ -24,6 +24,8 @@ outline: 2
 <!--@include: ./spice-mix/method.md-->
 ## salsa verde
 <!--@include: ./salsa-verde/method.md-->
+## chickpeas
+<!--@include: ./chickpeas/method.md-->
 ## cannellini beans
 <!--@include: ./cannellini-beans/method.md-->
 ## chicken stock
@@ -46,5 +48,7 @@ outline: 2
 <!--@include: ./veggies/method.md-->
 ## soup
 <!--@include: ./soup/method.md-->
+## pack
+<!--@include: ./pack.md-->
 ## bread pudding
 <!--@include: ./bread-pudding/method.md-->

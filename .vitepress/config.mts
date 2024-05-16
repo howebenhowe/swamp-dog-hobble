@@ -32,6 +32,7 @@ export default defineConfig({
 	lastUpdated: true,
 	description: "An intentional community in Brooklyn",
 	cleanUrls: true,
+	ignoreDeadLinks: true,
 	head: [
 		['link', { rel: 'icon', href: '/public/favicon.ico' }],
 	],

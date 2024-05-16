@@ -21,4 +21,4 @@ Since late winter 2024, we've been working with [Tompkins Distro][tomkins-distro
 1. [applaud our previous efforts](./chronicle)
 1. [where the food comes from](./procurement)
 
-[tomkins-distro-instagram]: (https://www.instagram.com/tompkins.distro/)
+[tomkins-distro-instagram]:https://www.instagram.com/tompkins.distro/
