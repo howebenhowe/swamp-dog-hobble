@@ -1,4 +1,4 @@
-yield ~45 servings (appropriate for 18 gallon soup)
+yield ~45 servings (appropriate for 18 gallon stew)
 | ingredient |            quantity |
 |:-----------|--------------------:|
 | rice       |               2000g |

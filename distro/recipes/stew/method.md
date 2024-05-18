@@ -6,7 +6,7 @@
 # Chicken and Veg Prep
 1. Corner Cook: set a 30-minute timer on chicken. It’s done when the skin begins to crisp, and a good deal of fat has rendered. It can be partly raw at the center still. We’ll finish it in the broth later. In the meantime, help Counter Cook get veg prep out of the way. When the chicken is finished, pour the fat into a stainless steel bowl, and place the trays on towels in the garage fridge to cool. Once the chicken has cooled, pick it. Separate meat, skins, and bones into three containers. Put the bones in the bone container. With a rubber spatula, scrape the remaining drippings and bits off the sheet trays and into a separate deli. Then roughly dice the picked chicken, and transfer it to another container. Finally, arrange the skins on the trays (no need to wash them beforehand) and roast them at 450 degrees for about 10-20 minutes. The lower the rack, the faster they will crisp. They will generate a good deal of smoke. When the skin is crispy, and just beginning to burn at the edges, it’s done. Remove the trays, pour off the last of the rendered fat into your fat bowl, and set aside the skins to cool. 
 1. 1. When the vegetables are done, get a batch of rice going in the upstairs oven. See the [rice recipe](../rice/method) and mind your timers, please. While the rice is going, drain and rinse the chickpeas, get them into cambros, pop all the tomato cans, and shake and pop the coconut milk. Mix the coconut milk with the fortified chicken stock (see [stock recipe](../chicken-stock/method) for ratio). 
-# The Actual Soup
+# The Actual Stew
 1. Get the stockpots over the back left and front right burners, respectively. Set them over medium high heat and do something else for 3 minutes. When the metal is hot, add your oil, let it run around a little, and throw in your onions. They should sizzle, not spit. Feel free to throw in testers. When they’re in, heavy hand of salt.
 1. After five or ten minutes or so, when the onions are fragrant and approaching translucence, crank the heat all the way up, and use a sturdy wooden spoon to clear an area on the bottom of the pot where you can throw your spices and ginger/garlic.
 1. When the pan is very hot, throw in your spices and ginger/garlic. With the spoon, flatten them into the area you’ve cleared. You want them to burn. The smell should be powerful. Flatten them, and don’t touch them for 30 seconds or so. Then, turn them about, mix it up, and flatten them again. When they start to smoke, vigorously deglaze, and mix everything all around. Probably this will take a few goes. Use about a half cup of water at a time, if that, and pour it directly on the trouble spots. The final deglazed result should be saucy, but not wet. 
@@ -28,6 +28,6 @@
 1. bring to a simmer
 1. cut the heat
 1. add chilled chickpeas, pickled cabbage, and frozen peas to drop heat
-1. drop ice wands into soup pots (frozen water vessels) until they are totally thawed, ~30 minutes
-1. if soup still >110°, pour it into a few hotel pans and if weather allows cool outside, otherwise in shop fridge + freezer
-1. transfer cooled soup to 5 gallon buckets, store in shop/basement fridges
+1. drop ice wands into stew pots (frozen water vessels) until they are totally thawed, ~30 minutes
+1. if stew still >110°, pour it into a few hotel pans and if weather allows cool outside, otherwise in shop fridge + freezer
+1. transfer cooled stew to 5 gallon buckets, store in shop/basement fridges

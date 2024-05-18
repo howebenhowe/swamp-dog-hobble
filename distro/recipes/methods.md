@@ -2,7 +2,7 @@
 outline: 2
 ---
 # Methods
-## soup total
+## stew total
 1. [prep the garlic/ginger](#garlic-ginger)
 1. [mix the spices](#spice-mix)
 1. [assemble salsa verde](#salsa-verde)
@@ -16,8 +16,8 @@ outline: 2
 1. [prep the chicken](#chicken)
 1. [cook the rice](#rice)
 1. [process the cabbage, onions, and peppers](#veggies)
-1. [cook soup](#soup)
-1. [pack rice, salsa verde, and soup for distro](#pack)
+1. [cook stew](#stew)
+1. [pack rice, salsa verde, and stew for distro](#pack)
 ## garlic-ginger
 <!--@include: ./garlic-ginger/method.md-->
 ## spice mix
@@ -46,8 +46,8 @@ outline: 2
 <!--@include: ./chicken/method.md-->
 ## veggies
 <!--@include: ./veggies/method.md-->
-## soup
-<!--@include: ./soup/method.md-->
+## stew
+<!--@include: ./stew/method.md-->
 ## pack
 <!--@include: ./pack.md-->
 ## bread pudding

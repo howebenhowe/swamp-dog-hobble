@@ -2,7 +2,7 @@
 outline: 2
 ---
 # Recipes
-## soup total
+## stew total
 <!--@include: ./total/ratios.md-->
 1. [prep the garlic/ginger](#garlic-ginger)
 1. [mix the spices](#spice-mix)
@@ -17,8 +17,8 @@ outline: 2
 1. [prep the chicken](#chicken)
 1. [cook the rice](#rice)
 1. [process the cabbage, onions, and peppers](#veggies)
-1. [cook soup](#soup)
-1. [pack rice, salsa verde, and soup for distro](#pack)
+1. [cook stew](#stew)
+1. [pack rice, salsa verde, and stew for distro](#pack)
 ## garlic-ginger
 <!--@include: ./garlic-ginger/ratios.md-->
 <!--@include: ./garlic-ginger/method.md-->
@@ -61,8 +61,8 @@ outline: 2
 ## veggies
 <!--@include: ./veggies/ratios.md-->
 <!--@include: ./veggies/method.md-->
-## soup
-<!--@include: ./soup/method.md-->
+## stew
+<!--@include: ./stew/method.md-->
 ## pack
 <!--@include: ./pack.md-->
 ## bread pudding

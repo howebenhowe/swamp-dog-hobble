@@ -3,7 +3,7 @@ outline: 2
 ---
 
 # Ratios
-## soup total
+## stew total
 yield: 18 gallons
 cost: ~$145
 | ingredient                       | quantity (g unless specfied) |
