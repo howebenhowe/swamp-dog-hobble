@@ -43,8 +43,20 @@ export default defineConfig({
 			{ text: 'Finances', link: '/finances' },
 			{ text: 'images', link: '/images' },
 			{ text: 'Distro Handbook', link: '/distro/' },
+			{ text: 'Kitchen', link: '/kitchen/' },
 		],
 		sidebar: {
+			'/kitchen/': [
+				{
+					text: 'Kitchen',
+					items: [
+						{ text: 'Sourdough Bread', link: '/kitchen/bread/' },
+						{ text: 'Salsa Macha', link: '/kitchen/salsa-macha/' },
+						{ text: 'Cornbread', link: '/kitchen/cornbread/' },
+						{ text: 'Waffles', link: '/kitchen/waffles/' }
+					]
+				}
+			],
 			'/distro/': [
 				{
 					text: 'Distro',
