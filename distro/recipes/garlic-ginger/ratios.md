@@ -1,4 +1,4 @@
-yield: 1800g
+yield: 1080g
 | ingredient | quantity (g) |
 |:-----------|-------------:|
 | garlic     |          680 |
