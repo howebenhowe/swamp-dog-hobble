@@ -4,9 +4,11 @@
 You can [track our accounting of distro][distro-accounting] to see how the money we receive becomes food we serve.
 
 ## Volunteer
-If you have hands we could use 'em. Sourcing ingredients, spreading word about the effort, cooking, cleaning, transporting food takes doing — [sign up to help us out!][signup-form] if you want to help get more good food to hungry people.
+At the moment, we're awash in volunteer effort. Come early fall, that won't be the case. As the weather cools off, we anticipate a bump up in the city's appetite, perhaps doubling the amount of food we need to cook and transport. If you want to lend hands then, please [shoot us an email][swampdog-email] to let us know, and we'll reach out when the busy season returns.
 
-If you have feedback or something to ask, [write us an email][swampdog-email].
+<!--If you have hands we could use 'em. Sourcing ingredients, spreading word about the effort, cooking, cleaning, transporting food takes doing — [sign up to help us out!][signup-form] if you want to help get more good food to hungry people.-->
+
+<!--If you have feedback or something to ask, [write us an email][swampdog-email].-->
 
 
 ## GoFundMe
