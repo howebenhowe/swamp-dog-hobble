@@ -2,6 +2,8 @@
 outline: 2
 ---
 # Recipes
+## balela
+<!--@include: ./balela/method.md-->
 ## stew total
 <!--@include: ./total/ratios.md-->
 1. [prep the garlic/ginger](#garlic-ginger)
