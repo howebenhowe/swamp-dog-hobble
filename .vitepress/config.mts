@@ -53,7 +53,8 @@ export default defineConfig({
 						{ text: 'Sourdough Bread', link: '/kitchen/bread/' },
 						{ text: 'Salsa Macha', link: '/kitchen/salsa-macha/' },
 						{ text: 'Cornbread', link: '/kitchen/cornbread/' },
-						{ text: 'Waffles', link: '/kitchen/waffles/' }
+						{ text: 'Waffles', link: '/kitchen/waffles/' },
+						{ text: 'Fried Chicken', link: '/kitchen/fried-chicken/' }
 					]
 				}
 			],
