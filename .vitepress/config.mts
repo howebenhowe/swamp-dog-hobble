@@ -41,9 +41,9 @@ export default defineConfig({
 			{ text: 'Manifesto', link: '/manifesto' },
 			{ text: 'Norms', link: '/norms' },
 			{ text: 'Finances', link: '/finances' },
-			{ text: 'images', link: '/images' },
 			{ text: 'Distro Handbook', link: '/distro/' },
 			{ text: 'Kitchen', link: '/kitchen/' },
+			{ text: 'Guests', link: '/guest-welcome-handbook' },
 		],
 		sidebar: {
 			'/kitchen/': [
