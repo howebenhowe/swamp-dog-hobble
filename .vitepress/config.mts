@@ -39,6 +39,7 @@ export default defineConfig({
 	themeConfig: {
 		nav: [
 			{ text: 'Manifesto', link: '/manifesto' },
+			{ text: 'Join!', link: '/join-sdh' },
 			{ text: 'Norms', link: '/norms' },
 			{ text: 'Finances', link: '/finances' },
 			{ text: 'Distro Handbook', link: '/distro/' },
