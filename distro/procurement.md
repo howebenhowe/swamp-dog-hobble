@@ -27,3 +27,6 @@ Aldi carries the rest.
 - chicken stock
 - green onions
 - mini peppers
+
+## Conversions from store packages to metrics
+- 6 bags of aldi lemons yields 2.5 quarts lemon juice
