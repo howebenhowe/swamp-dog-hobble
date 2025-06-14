@@ -2,9 +2,14 @@
 outline: 2
 ---
 # Recipes
+If it's hot out, prefer [the balela recipe.](#balela).
+
+[The stew](#stew) if cold.
+
+All recipes are scaled for 10 gallon yield (two buckets full). Scale up as needed and budget allow.
 ## balela
 <!--@include: ./balela/method.md-->
-## stew total
+## stew
 <!--@include: ./total/ratios.md-->
 1. [prep the garlic/ginger](#garlic-ginger)
 1. [mix the spices](#spice-mix)
@@ -12,9 +17,7 @@ outline: 2
 1. [prep the chickpeas](#chickpeas)
 1. [prep the cannellini beans](#cannellini-beans)
 1. [produce chicken stock](#chicken-stock)
-1. [marinate the cabbage](#marinated-cabbage)
 1. [pickle the cabbage](#pickled-cabbage)
-1. [marinate the potato](#marinated-potato)
 1. [prep the squash](#squash) or [cauliflower](#cauliflower)
 1. [prep the chicken](#chicken)
 1. [cook the rice](#rice)
@@ -39,15 +42,9 @@ outline: 2
 ## chicken stock
 <!--@include: ./chicken-stock/ratios.md-->
 <!--@include: ./chicken-stock/method.md-->
-## marinated cabbage
-<!--@include: ./marinated-cabbage/ratios.md-->
-<!--@include: ./marinated-cabbage/method.md-->
 ## pickled cabbage
 <!--@include: ./pickled-cabbage/ratios.md-->
 <!--@include: ./pickled-cabbage/method.md-->
-## marinated potato
-<!--@include: ./marinated-potato/ratios.md-->
-<!--@include: ./marinated-potato/method.md-->
 ## rice
 <!--@include: ./rice/ratios.md-->
 <!--@include: ./rice/method.md-->

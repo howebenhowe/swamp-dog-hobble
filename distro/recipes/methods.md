@@ -9,13 +9,11 @@ outline: 2
 1. [prep the chickpeas](#chickpeas)
 1. [prep the cannellini beans](#cannellini-beans)
 1. [produce chicken stock](#chicken-stock)
-1. [marinate the cabbage](#marinated-cabbage)
 1. [pickle the cabbage](#pickled-cabbage)
-1. [marinate the potato](#marinated-potato)
 1. [prep the squash](#squash) or [cauliflower](#cauliflower)
 1. [prep the chicken](#chicken)
 1. [cook the rice](#rice)
-1. [process the cabbage, onions, and peppers](#veggies)
+1. [process \(chop\) the cabbage, onions, and peppers, potato](#veggies)
 1. [cook stew](#stew)
 1. [pack rice, salsa verde, and stew for distro](#pack)
 ## garlic-ginger
@@ -30,12 +28,8 @@ outline: 2
 <!--@include: ./cannellini-beans/method.md-->
 ## chicken stock
 <!--@include: ./chicken-stock/method.md-->
-## marinated cabbage
-<!--@include: ./marinated-cabbage/method.md-->
 ## pickled cabbage
 <!--@include: ./pickled-cabbage/method.md-->
-## marinated potato
-<!--@include: ./marinated-potato/method.md-->
 ## rice
 <!--@include: ./rice/method.md-->
 ## squash
