@@ -15,15 +15,7 @@ const sidebar_links = {
 			text: 'instagram',
 			link: 'https://www.instagram.com/swampdogmutualaid/'
 		},
-		{
-			text: '⚓ Davy\'s site',
-			link: 'http://davyjonezlockr.gay/'
-		},
-		{
-			text: '🔪 Ben\'s site',
-			link: 'http://howebenhowe.com/'
-		}
-	]
+	],
 }
 
 export default defineConfig({
@@ -56,7 +48,6 @@ export default defineConfig({
 						{ text: 'Cornbread', link: '/kitchen/cornbread/' },
 						{ text: 'Waffles', link: '/kitchen/waffles/' },
 						{ text: 'Fried Chicken', link: '/kitchen/fried-chicken/' },
-						{ text: 'Beets with Burrata', link: '/kitchen/burrata-beets/' }
 					]
 				}
 			],

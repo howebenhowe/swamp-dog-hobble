@@ -46,10 +46,6 @@ If yes, now each house member can make one recurring monthly payment which will 
 
 Once the process above is completed and you know how much you will be paying into the house coffers on a monthly basis, you can do so via one of two methods. Whichever method you choose, be sure to make an entry recording it into Splitwise:
 
-* Zelle your contribution to howebenhowe@gmail.com
-  This is the email account linked to the share house bank account, out of which bills are paid
-* Check deposit. You can write a good old check, and deposit it directly to the Santander account. You can do so by logging into the account directly on your personal device (password is in the house Bitwarden account) or by using the house iPad which is usually in the Library.
-
 ## House Accounting
 
 ### How does money get spent out of this share house bank account?
