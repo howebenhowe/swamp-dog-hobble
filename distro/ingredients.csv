@@ -1,5 +1,41 @@
-name,amount,notes,building block
-garlic,320,,garlic_ginger
-ginger,180,,garlic_ginger
-olive oil,1/4c,use as little as necessary,garlic_ginger
-rice,2000,,
+name,amount,unit,notes,blocks,block 1,block 2,block 3
+yellow onions,900,,~6 yellow onions,base:summer_total,base,,summer_total
+red onions,400,,2 red onions,,veggies,,summer_total
+coconut milk,2900,,1 large (#10) can or 7 standard cans,base:summer_total,base,,summer_total
+potatoes,3000,,~7 big idaho potatoes,base:summer_total,base,,summer_total
+"yellow onion, halved",1,pc,optional,beans,beans,,
+garlic,1,head,optional,beans,beans,,
+bay leaf,4,leaf,optional,beans,beans,,
+chickpeas,2500,,,beans:summer_total,beans,,summer_total
+cannellini,1000,,,beans:summer_total,beans,,summer_total
+cauliflower,2600,,3 head,base:summer_total,base,,summer_total
+olive oil,0.25,c,use as little as necessary,garlic_ginger,garlic_ginger,,
+garlic,320,,,garlic_ginger:summer_total,garlic_ginger,,summer_total
+ginger,180,,,garlic_ginger:summer_total,garlic_ginger,,summer_total
+chicken,8500,,4 aldi packs,base:summer_total,base,,summer_total
+salt,40,,,pickled_cabbage,pickled_cabbage,,
+garlic/ginger,40,,,pickled_cabbage,pickled_cabbage,,
+spice mix,60,,,pickled_cabbage,pickled_cabbage,,
+rice vinegar,1,qt,,pickled_cabbage,pickled_cabbage,,
+sugar,0.33,qt,,pickled_cabbage,pickled_cabbage,,
+water,0.66,qt,,pickled_cabbage,pickled_cabbage,,
+cabbage,2000,,2 large or 3 medium green cabbages,pickled_cabbage:summer_total,pickled_cabbage,,summer_total
+"jalapeño peppers, blistered",800,,"3 aldi bags, ~2 loose quarts",salsa_verde:summer_total,salsa_verde,,summer_total
+lemon juice,0.5,qt,~16 lemons,salsa_verde:summer_total,salsa_verde,,summer_total
+scallions,650,,4 bags,salsa_verde:summer_total,salsa_verde,,summer_total
+cilantro,240,,6 bunches,salsa_verde:summer_total,salsa_verde,,summer_total
+tumeric,165,,,spice_mix:ground_spice,spice_mix,ground_spice,
+cayenne,25,,,spice_mix:ground_spice,spice_mix,ground_spice,
+paprika,20,,,spice_mix:ground_spice,spice_mix,ground_spice,
+cinnamon,15,,,spice_mix:ground_spice,spice_mix,ground_spice,
+cumin seeds,100,,,spice_mix:whole_spice,spice_mix,whole_spice,
+coriander seeds,100,,,spice_mix:whole_spice,spice_mix,whole_spice,
+fennel seed,50,,,spice_mix:whole_spice,spice_mix,whole_spice,
+cloves,3,,,spice_mix:whole_spice,spice_mix,whole_spice,
+caraway seeds,23,,,spice_mix:whole_spice,spice_mix,whole_spice,
+"peppers (bell/sweet, sliced)",900,,9 bell peppers (green/mixed) and 3 bags mini sweet peppers,veggies:summer_total,veggies,,summer_total
+canned whole peeled tomato,2900,,1 #10 cans or 7 standard cans,base:summer_total,base,,summer_total
+frozen peas,1360,,4 aldi bags,veggies:summer_total,veggies,,summer_total
+cucumber,2400,,~6 pieces,veggies:summer_total,veggies,,summer_total
+spice mix,1,qt,,base:summer_total,base,summer_total,
+garlic/ginger,500,,,base:summer_total,base,summer_total,

@@ -54,15 +54,13 @@ export default defineConfig({
 			'/distro/': [
 				{
 					text: 'Distro',
+          link: '/distro/',
 					items: [
-						{ text: 'Cooking', link: '/distro/' },
+						{ text: 'Summer Balela Recipe', link: '/distro/summer/' },
+						{ text: 'Winter Stew Recipe', link: '/distro/winter/' },
 						{ text: 'Logistics', link: '/distro/logistics' },
 						{ text: 'Chronicle', link: '/distro/chronicle' },
 						{ text: 'Donate/Volunteer', link: '/distro/donate-volunteer' },
-						{ text: 'Upcoming Timeline', link: '/distro/upcoming-timeline' },
-						{ text: 'Recipes', link: '/distro/recipes/' },
-						{ text: 'Ratios', link: '/distro/recipes/ratios' },
-						{ text: 'Methods', link: '/distro/recipes/methods' }
 					]
 				},
 				sidebar_links

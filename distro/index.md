@@ -15,10 +15,11 @@ Since late winter 2024, we've been working with [Tompkins Distro][tomkins-distro
 
 ## a guide to the handbook
 
-1. [what we're cooking](./recipes/)
+1. [what we're cooking](./summer/)
 1. [the week's timeline toward Saturday](./logistics)
 1. [support our ongoing efforts](./donate-volunteer)
 1. [applaud our previous efforts](./chronicle)
 1. [where the food comes from](./procurement)
+1. [what we will be cooking when the weather turns](./winter/)
 
 [tomkins-distro-instagram]:https://www.instagram.com/tompkins.distro/

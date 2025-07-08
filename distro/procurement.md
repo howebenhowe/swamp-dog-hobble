@@ -27,6 +27,10 @@ Aldi carries the rest.
 - chicken stock
 - green onions
 - mini peppers
+- cucumber
 
-## Conversions from store packages to metrics
-- 6 bags of aldi lemons yields 2.5 quarts lemon juice
+## Amazon
+Though we don't like Amazon, it's the most efficient means we've found to stretch $ for spices. We get all our spices from them.
+
+## Tools
+When the time comes to scale a recipe or calculate a new approximation of cost, you can either get busy on google sheets or use an [online recipe scaler](https://goodcalculators.com/recipe-scaler/)--in which case just list the whole-dollar cost next to each ingredient. To update the amounts listed in the recipes, contact Ben.
