@@ -9,14 +9,14 @@ The summer distro recipe costs ~$75 for a 9-gallon yield of fresh-vegetable-rich
 1. [shop for the ingredients](#shop-for-the-ingredients)
 1. [prep the garlic/ginger](#garlic-ginger)
 1. [mix the spices](#spice-mix)
-1. [assemble salsa verde](#salsa-verde)
 1. [pickle the cabbage](#pickled-cabbage)
 1. [prep then cook the beans](#beans)
+1. [assemble salsa verde](#salsa-verde)
 1. [process the fresh vegetables](#veggies)
 1. [prep then cook the balela base](#balela-base)
 
 ## shop for the ingredients
-<IngredientsTable :building-blocks="['summer_total']" show-notes/>
+<IngredientsTable :building-blocks="['balela_total']" show-notes/>
 
 ## garlic-ginger
 <IngredientsTable :building-blocks="['garlic_ginger']" />
@@ -29,10 +29,6 @@ The summer distro recipe costs ~$75 for a 9-gallon yield of fresh-vegetable-rich
 <IngredientsTable :building-blocks="['ground_spice']"/>
 <!--@include: ../common/spice-mix.md-->
 
-## salsa verde
-<IngredientsTable :building-blocks="['salsa_verde']" />
-<!--@include: ../common/salsa-verde.md-->
-
 ## pickled cabbage
 <IngredientsTable :building-blocks="['pickled_cabbage']" />
 <!--@include: ../common/pickled-cabbage.md-->
@@ -41,10 +37,14 @@ The summer distro recipe costs ~$75 for a 9-gallon yield of fresh-vegetable-rich
 <IngredientsTable :building-blocks="['beans']" />
 <!--@include: ../common/beans.md-->
 
+## salsa verde
+<IngredientsTable :building-blocks="['salsa_verde']" />
+<!--@include: ../common/salsa-verde.md-->
+
 ## veggies
 <IngredientsTable :building-blocks="['veggies']" />
 <!--@include: ./veggies.md-->
 
 ## balela base
-<IngredientsTable :building-blocks="['base']" />
+<IngredientsTable :building-blocks="['balela_base']" />
 <!--@include: ./base.md-->

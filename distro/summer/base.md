@@ -10,7 +10,7 @@
 **cook**
 1. heat big pot empty for 5 minutes
 1. add one cup oil to bottom of pan, yellow onions, stir periodically for 5 minutes
-1. add spice mix, stir across bottom of pot, let it stick and get fragrant for ~30 sec, then stir and ref-latten, repeat a couple times and at first sign of smoke, deglaze coconut milk to a slurry
+1. add spice mix and garlic/ginger, stir across bottom of pot, let it stick and get fragrant for ~30 sec, then stir and ref-latten, repeat a couple times and at first sign of smoke, deglaze coconut milk to a slurry
 1. add rest of coconut milk, canned whole tomatoes, stir, then add chicken
 1. simmer, stirring occasionally, until chicken is done
 1. remove chicken and set aside to cool \(use tongs/perforated pan or your preferred method to remove the chicken\)

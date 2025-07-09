@@ -1,29 +1,33 @@
 name,amount,unit,notes,blocks,block 1,block 2,block 3
-yellow onions,900,,~6 yellow onions,base:summer_total,base,,summer_total
-red onions,400,,2 red onions,,veggies,,summer_total
-coconut milk,2900,,1 large (#10) can or 7 standard cans,base:summer_total,base,,summer_total
-potatoes,3000,,~7 big idaho potatoes,base:summer_total,base,,summer_total
+chickpeas,2500,,,beans:stew_total:balela_total,beans,stew_total,balela_total
+cannellini,1000,,,beans:stew_total:balela_total,beans,stew_total,balela_total
+garlic,320,,,garlic_ginger:balela_total,garlic_ginger,,balela_total
+ginger,180,,,garlic_ginger:balela_total,garlic_ginger,,balela_total
+cabbage,2000,,2 large or 3 medium green cabbages,pickled_cabbage:balela_total,pickled_cabbage,,balela_total
+"jalapeño peppers, blistered",800,,"3 aldi bags, ~2 loose quarts",salsa_verde:balela_total,salsa_verde,,balela_total
+lemon juice,1,qt,~16 lemons,salsa_verde:balela_total,salsa_verde,,balela_total
+scallions,800,,6 bags,salsa_verde:balela_total,salsa_verde,,balela_total
+cilantro,400,,9 bunches,salsa_verde:balela_total,salsa_verde,,balela_total
+coconut milk,2900,,1 large (#10) can or 7 standard cans,balela_base:balela_total,balela_base,,balela_total
+potatoes,3000,,~10 big idaho potatoes,balela_base:balela_total,balela_base,,balela_total
+cauliflower,4000,,4-5 head,balela_base:balela_total,balela_base,,balela_total
+chicken,8500,,4 aldi packs,balela_base:balela_total,balela_base,,balela_total
+canned whole peeled tomato,2900,,1 #10 cans or 7 standard cans,balela_base:balela_total,balela_base,,balela_total
+yellow onions,1200,,~8 yellow onions,balela_base:balela_total,balela_base,,balela_total
+red onions,600,,~3 red onions,,veggies,,balela_total
+"peppers (bell/sweet, sliced)",900,,9 bell peppers (green/mixed) and 3 bags mini sweet peppers,veggies:balela_total,veggies,,balela_total
+frozen peas,1360,,4 aldi bags,veggies:balela_total,veggies,,balela_total
+cucumber,1800,,~6 pieces,veggies:balela_total,veggies,,balela_total
 "yellow onion, halved",1,pc,optional,beans,beans,,
 garlic,1,head,optional,beans,beans,,
 bay leaf,4,leaf,optional,beans,beans,,
-chickpeas,2500,,,beans:summer_total,beans,,summer_total
-cannellini,1000,,,beans:summer_total,beans,,summer_total
-cauliflower,2600,,3 head,base:summer_total,base,,summer_total
 olive oil,0.25,c,use as little as necessary,garlic_ginger,garlic_ginger,,
-garlic,320,,,garlic_ginger:summer_total,garlic_ginger,,summer_total
-ginger,180,,,garlic_ginger:summer_total,garlic_ginger,,summer_total
-chicken,8500,,4 aldi packs,base:summer_total,base,,summer_total
 salt,40,,,pickled_cabbage,pickled_cabbage,,
 garlic/ginger,40,,,pickled_cabbage,pickled_cabbage,,
 spice mix,60,,,pickled_cabbage,pickled_cabbage,,
 rice vinegar,1,qt,,pickled_cabbage,pickled_cabbage,,
 sugar,0.33,qt,,pickled_cabbage,pickled_cabbage,,
 water,0.66,qt,,pickled_cabbage,pickled_cabbage,,
-cabbage,2000,,2 large or 3 medium green cabbages,pickled_cabbage:summer_total,pickled_cabbage,,summer_total
-"jalapeño peppers, blistered",800,,"3 aldi bags, ~2 loose quarts",salsa_verde:summer_total,salsa_verde,,summer_total
-lemon juice,0.5,qt,~16 lemons,salsa_verde:summer_total,salsa_verde,,summer_total
-scallions,650,,4 bags,salsa_verde:summer_total,salsa_verde,,summer_total
-cilantro,240,,6 bunches,salsa_verde:summer_total,salsa_verde,,summer_total
 tumeric,165,,,spice_mix:ground_spice,spice_mix,ground_spice,
 cayenne,25,,,spice_mix:ground_spice,spice_mix,ground_spice,
 paprika,20,,,spice_mix:ground_spice,spice_mix,ground_spice,
@@ -33,9 +37,20 @@ coriander seeds,100,,,spice_mix:whole_spice,spice_mix,whole_spice,
 fennel seed,50,,,spice_mix:whole_spice,spice_mix,whole_spice,
 cloves,3,,,spice_mix:whole_spice,spice_mix,whole_spice,
 caraway seeds,23,,,spice_mix:whole_spice,spice_mix,whole_spice,
-"peppers (bell/sweet, sliced)",900,,9 bell peppers (green/mixed) and 3 bags mini sweet peppers,veggies:summer_total,veggies,,summer_total
-canned whole peeled tomato,2900,,1 #10 cans or 7 standard cans,base:summer_total,base,,summer_total
-frozen peas,1360,,4 aldi bags,veggies:summer_total,veggies,,summer_total
-cucumber,2400,,~6 pieces,veggies:summer_total,veggies,,summer_total
-spice mix,1,qt,,base:summer_total,base,summer_total,
-garlic/ginger,500,,,base:summer_total,base,summer_total,
+spice mix,1,qt,,balela_base:balela_total:stew_total,balela_base,balela_total,stew_total
+garlic/ginger,500,,,balela_base:balela_total,balela_base,balela_total,
+cabbage,3000,,,stew_total,,stew_total,
+cabbage,1000,,,stew base,stew base,,
+rice,2500,,,rice:stew_total,rice,stew_total,
+chicken,8500,,4 Aldi packs,braised_chicken:stew_total,braised_chicken,stew_total,
+frozen peas,1360,,4 bags,stew_total:stew_base,stew_total,stew_base,
+butternut squash,3000,,weigh at store,stew_total:stew_base,stew_total,stew_base,
+yellow onions,1400,,7-9 onions,stew_total:stew_base,stew_total,stew_base,
+potatoes (sweet/plain),3000,,,stew_total:stew_base,stew_total,stew_base,
+chicken stock,4000,,should be homemade!,stew_total:stew_base,stew_total,stew_base,
+coconut milk,2900,,1 big (#10) can,braised_chicken:stew_total,braised_chicken,stew_total,
+"peppers (bell/sweet, sliced)",900,,9 bell peppers (green/mixed) and 3 bags mini sweet peppers,stew_total:stew_base,stew_total,stew_base,
+spice mix,0.5,qt,,stew_base,stew_base,,
+spice mix,0.5,qt,,braised_chicken,braised_chicken,,
+garlic/ginger,250,,,stew_base,stew_base,,
+garlic/ginger,250,,,braised_chicken,braised_chicken,,
