@@ -1,4 +1,4 @@
-1. bring salted water to boil in pot \(3.3% of rice weight in salt and 250% in water, so 33g salt and 5L water for every 1000g rice\)
+1. bring salted water to boil in pot \(3.3% of rice weight in salt and 250% in water, so 33g salt and 2.5L water for every 1000g rice\)
 1. put rice in deep hotel pan
 1. pour boiling water over rice, stir once
 1. cover with sheet tray or inverted hotel pan
