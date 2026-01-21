@@ -46,6 +46,7 @@ export default defineConfig({
 						{ text: 'Sourdough Bread', link: '/kitchen/bread/' },
 						{ text: 'Salsa Macha', link: '/kitchen/salsa-macha/' },
 						{ text: 'Cornbread', link: '/kitchen/cornbread/' },
+						{ text: 'Gingerbread', link: '/kitchen/gingerbread/' },
 						{ text: 'Waffles', link: '/kitchen/waffles/' },
 						{ text: 'Fried Chicken', link: '/kitchen/fried-chicken/' },
 					]
@@ -54,7 +55,7 @@ export default defineConfig({
 			'/distro/': [
 				{
 					text: 'Distro',
-          link: '/distro/',
+					link: '/distro/',
 					items: [
 						{ text: 'Summer Balela Recipe', link: '/distro/summer/' },
 						{ text: 'Winter Stew Recipe', link: '/distro/winter/' },
